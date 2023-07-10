@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header{
@@ -23,7 +24,7 @@ header{
 
 }
 .text-1{
-    font-size: 55px;
+    font-size: 50px;
     color: rgb(0, 0, 0);
 }
 #text-2{
@@ -31,7 +32,7 @@ header{
 }
 
 .btn-1{
-    background:rgb(247, 112, 135);
+    background:#E55473;
     border-radius: 10px;
     color: rgb(2, 0, 0);
     padding: 15px 40px;
@@ -110,4 +111,45 @@ main{
 #name{
     text-align: center;
     text-decoration: underline;
+}
+
+/* .section-hot{
+    background-color: rgba(229, 84, 115, 0.05);
+    padding: 0px 50px;
+} */
+
+.hot{
+   display: flex;
+   align-items: center;
+   background-color: rgba(229, 84, 115, 0.05);
+   padding:110px 210px ;
+   margin:100px -130px;
+   text-align: center;
+   
+}
+#hot-title{
+    font-size:26px;
+}
+span{
+    color: red;
+}
+
+.hot-description{
+  padding: 20px 30px;
+}
+
+.hot img{
+    width:210px;
+    height: 290px;
+    padding-right: 20px;
+}
+
+
+
+
+
+.section-4img{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
 }
