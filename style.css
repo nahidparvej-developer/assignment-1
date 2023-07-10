@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(248, 229, 238);
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 110px 115px 0px 200px;
+}
+
+.profile{
+    width:400px;
+}
+
+.banner-text{
+    max-width: 500px;
+
+}
+.text-1{
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+}
+#text-2{
+    color: rgb(57, 57, 58);
+}
+
+.btn-1{
+    background:rgb(247, 112, 135);
+    border-radius: 10px;
+    color: rgb(2, 0, 0);
+    padding: 15px 40px;
+    cursor: pointer;
+        
+    font-size: 20px;
+}
