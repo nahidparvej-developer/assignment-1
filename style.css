@@ -40,7 +40,10 @@ header{
         
     font-size: 20px;
 }
-
+.flower-price{
+    margin-top: 100px;
+    text-align: center;
+}
 
 .bonus{
     display: flex;
