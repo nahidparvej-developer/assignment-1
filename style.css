@@ -48,19 +48,19 @@ header{
 .bonus{
     display: flex;
     margin-top: 100px;
-    gap: 20px;
+    gap: 50px;
     justify-content: center;
+   
 }
 
 .bonus-1{
     overflow: hidden;
-	margin-left: 80px;
-	box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 30px gray;
     height: 450px;
 }
 
 .bonus-1 img{
-	width: 290px;
+	width: 335px;
 	height: 300px;
     padding-right: 20px;
 }
@@ -72,7 +72,7 @@ p{
     margin-top:-10px;
 }
 .btn-bonus{
- margin-left: 85px;
+ margin-left: 120px;
  margin-top: 20px;
  padding: 8px 16px;
  background:#E55473;
@@ -107,7 +107,7 @@ main{
 
 .images{
     display: flex;
-    margin-top: 50px;
+    margin-top: 100px;
     gap: 20px;
  
 }
@@ -165,9 +165,10 @@ main{
    align-items: center;
    background-color: rgba(229, 84, 115, 0.05);
    padding:110px 210px ;
-   margin:100px -130px;
+   margin:150px -130px;
    text-align: center;
    justify-content: space-between;
+
    
 }
 #hot-title{
