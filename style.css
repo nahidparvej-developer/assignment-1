@@ -171,6 +171,7 @@ span{
     text-align: center;
     background-size: cover;
     background-position: center;
+  
 
   
  
@@ -179,6 +180,7 @@ span{
 .section-last-head{
  color: black;
  font-size: xx-large;
+ padding-top: 100px;
 }
 
 .last-section-describtion{
@@ -192,13 +194,18 @@ span{
 }
 
 .in{
-width: 250px;
+width: 400px;
 height: 45px;
 margin-right: 25px;
+border: 1px solid white;
+border-radius: 5px;
+padding-left: 10px;
 }
 .btn-last{
     background:#E55473;
     padding: 15px 30px;
+    border-radius: 10px;
+    outline:none;
   
 }
 
@@ -214,10 +221,10 @@ margin-right: 25px;
 
 footer{
  background-color: black; 
- height: 300px;  
+ height: 290px;  
  text-align: center;
  color: aliceblue;
- padding-top: 130px;
+ padding-top: 135px;
  margin-top: 100px;
 
 }
