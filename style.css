@@ -27,9 +27,11 @@ header{
     font-size: 50px;
     color: rgb(0, 0, 0);
 }
-#text-2{
+.text-2{
+ 
     color: rgb(57, 57, 58);
 }
+
 
 .btn-1{
     background:#E55473;
@@ -64,12 +66,13 @@ header{
 	height: 300px;
     padding-right: 20px;
 }
-p{
+#doller{
     text-align: center;
     margin-top: 15px;
 }
 #price{
     margin-top:-10px;
+    text-align: center;
 }
 .btn-bonus{
  margin-left: 120px;
