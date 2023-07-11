@@ -34,10 +34,10 @@ header{
 .btn-1{
     background:#E55473;
     border-radius: 10px;
-    color: rgb(2, 0, 0);
+    color: rgb(245, 238, 238);
     padding: 15px 40px;
     cursor: pointer;
-     border: none;   
+    border: none;   
     font-size: 20px;
 }
 .flower-price{
@@ -77,13 +77,14 @@ p{
  padding: 8px 16px;
  background:#E55473;
  border-radius: 10px;
- color: rgb(2, 0, 0);
+ color: rgb(255, 255, 255);
  cursor: pointer;
  border: none;
      
 
 }
 
+/* main  */
 
 
 main{
@@ -253,13 +254,9 @@ padding-left: 10px;
     padding: 15px 30px;
     border-radius: 10px;
     border: none;
+    color: white;
   
 }
-
-
-
-
-
 
 
 
