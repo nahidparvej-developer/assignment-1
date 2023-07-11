@@ -37,7 +37,7 @@ header{
     color: rgb(2, 0, 0);
     padding: 15px 40px;
     cursor: pointer;
-        
+     border: none;   
     font-size: 20px;
 }
 .flower-price{
@@ -79,6 +79,7 @@ p{
  border-radius: 10px;
  color: rgb(2, 0, 0);
  cursor: pointer;
+ border: none;
      
 
 }
@@ -251,7 +252,7 @@ padding-left: 10px;
     background:#E55473;
     padding: 15px 30px;
     border-radius: 10px;
-    outline:none;
+    border: none;
   
 }
 
