@@ -166,11 +166,11 @@ span{
 .last-sec{
     background-image: url('img/lastbr.png');
     background-repeat: no-repeat;
-    height: 450px;
+    height: 350px;
     margin: 100px 20px;
     text-align: center;
-    padding-top: 100px;
-    margin-top: 100px;
+    background-size: cover;
+    background-position: center;
 
   
  
@@ -193,7 +193,13 @@ span{
 
 .in{
 width: 250px;
-height: 50px;
+height: 45px;
+margin-right: 25px;
+}
+.btn-last{
+    background:#E55473;
+    padding: 15px 30px;
+  
 }
 
 
@@ -212,5 +218,6 @@ footer{
  text-align: center;
  color: aliceblue;
  padding-top: 130px;
+ margin-top: 100px;
 
 }
