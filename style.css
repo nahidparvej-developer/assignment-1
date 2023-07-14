@@ -275,3 +275,36 @@ footer{
  margin-top: 100px;
 
 }
+
+
+
+
+
+
+@media screen and (max-width:576px){
+    .footer, .last-sec, .section-4img, .hot , .images, .bonus , .sec{
+        flex-direction: column;
+    }
+  
+    .searchbar{
+     text-align: center;
+    }
+    .btn-last{
+        margin-top: 20px;
+    }
+    .img-b, .img-c{
+        margin-top: 30px;
+      
+    }
+
+    
+}
+
+@media screen and (min-width:577px) and (max-width:992px) {
+       .footer , .last-sec{
+        flex-direction: column;
+       }
+       .section-4img{
+        grid-template-columns: repeat(2,1fr);
+      }
+}
